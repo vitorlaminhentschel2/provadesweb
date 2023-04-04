@@ -32,52 +32,68 @@ Exercício 11.  Qual é o propósito da tag HEAD?
 Em HTML, a tag <head> é usada como cabeçalho, ou seja, um conjunto de informações de uma página de um site.
 
 Exercício 12.  Qual é o propósito da tag BODY?
+O elemento <body> do HTML representa o conteúdo de um documento HTML.
 
 Exercício 13.  Qual é a tag que representa um comentário em HTML?
+Comentário HTML: use a tag < !-- -- >
 
 Exercício 14.  Qual é a tag que representa um parágrafo?
+A tag "p" é utilizada para demarcar um parágrafo.
 
 Exercício 15.  Qual é a tag que representa o metadado título de um documento em HTML?
+O elemento <title> é um metadado que representa o título de todo o document HTML
 
 Exercício 16.  Qual é a tag que configura o documento HTML para lidar com caracteres especiais?
 
 Exercício 17.  Qual é a tag que representa um título/seção em um documento HTML? Quantos níveis possuem?
+Os elementos HTML <h1> – <h6> representam seis níveis de título de seção.
 
 Exercício 18.  Qual é a tag que representa uma lista não ordenada?
+Uma lista não ordenada começa com a tag <ul>.
 
 Exercício 19.  Qual é a tag que representa uma lista ordenada?
+O Elemento HTML <ol> 
 
 Exercício 20.  Qual é a propriedade na tag que representa uma lista ordenada reversa??
+reverse
 
 Exercício 21.  Qual é a tag que representa uma lista de descrições?
+lista de descrições ( <dl> ).
 
 Exercício 22.  Qual é a propriedade na tag que configura uma lista ordenada iniciar em um determinado valor?
+O Elemento HTML <ol>
 
 Exercício 23.  Qual é a tag que representa um texto em negrito?
+<b></b> – Transforma o conteúdo em negrito
 
 Exercício 24.  Qual é a tag que representa um texto em itálico?
+etiqueta <I>
 
 Exercício 25.  Qual é a tag que representa um texto destacado?
+<strong>
 
 Exercício 26.  Qual é a tag que representa um texto riscado?
-
-
+Para isso se usa <strike>texto</strike>
 
 Exercício 27.  Qual é a tag que representa um texto subescrito e sobrescrito?
-
-Exercício 28.  Qual é a tag que representa um texto de rodapé?
+<sup> e <sub>
 
 Exercício 29.  Qual é a tag que representa um pulo de linha?
+<br>
 
 Exercício 30.  Qual é a tag que representa uma linha horizontal?
+<hr>
 
 Exercício 31.  Qual é a tag que representa uma imagem?
+**HTML <img> **
 
 Exercício 32.  Qual é a tag que representa um link?
+<a>
 
 Exercício 33.  Qual é a propriedade da tag que define a imagem a ser exibida?
 
 Exercício 34.  Como é definido o tamanho de uma imagem?
+"width" "height"
 
 Exercício 35.  Como é definido o endereço para qual um link direciona?
 
