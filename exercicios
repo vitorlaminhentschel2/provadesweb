@@ -99,11 +99,19 @@ Exercício 35.  Como é definido o endereço para qual um link direciona?
 
 Exercício 36.  Qual é a tag que representa ua tabela?
 
+<table>
+
 Exercício 37.  Qual é a tag que representa uma linha em uma tabela?
+
+ <tr>
 
 Exercício 38.  Qual é a tag que representa uma célula de dados em uma tabela?
 
+<td>
+
 Exercício 39.  Qual é a tag que representa uma célula de cabeçalho em uma tabela?
+
+<th>
 
 Exercício 40.  Qual é a propriedade que define que uma célula será mesclada em linha?
 
